@@ -1,0 +1,1 @@
+This EJS template dynamically displays a file name and its corresponding data inside a beautifully styled card using Tailwind CSS. It includes a sleek "Go Back" button, a centered layout for better readability, and improved typography. The design ensures a clean and modern look while keeping the content structured and visually appealing. 🚀
